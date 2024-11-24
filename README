@@ -1,0 +1,15 @@
+Phishing Form Project
+
+Description
+Ce projet est une démonstration simple d'un formulaire de phishing simulé, conçu dans un but éducatif pour comprendre comment fonctionnent les attaques par phishing et comment se protéger contre elles. Le formulaire capture les informations sensibles (email et mot de passe) soumises par l'utilisateur et les enregistre dans un fichier texte. Ce projet ne doit être utilisé que dans un cadre légal et éthique, à des fins d'apprentissage uniquement.
+
+Avertissement Éthique
+Ce projet est destiné uniquement à des fins pédagogiques et de démonstration. L'utilisation de ce code pour mener des attaques de phishing réelles est illégale et immorale. Vous devez utiliser ce projet dans un environnement contrôlé, de manière responsable et avec l'autorisation explicite des utilisateurs.
+
+Technologies utilisées
+HTML/CSS : Création du formulaire de saisie des données.
+PHP : Traitement des données soumises et enregistrement dans un fichier texte.
+Fonctionnalités
+Formulaire de phishing simple demandant un email et un mot de passe.
+Capture des informations saisies et les enregistre dans un fichier texte.
+Sauvegarde des données dans le fichier captured_data.txt pour consultation ultérieure.
